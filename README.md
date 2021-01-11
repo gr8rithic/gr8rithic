@@ -31,7 +31,7 @@ Hi there, I'm **Rithic Hariharan**, a **Student** 🚀 from Coimbatore, India.
 - 👨🏽‍💻 I’m currently studying in Government College of Technology, Coimbatore.
 - 🌱 I’m currently exploring Python with a big interest in WebDevelopment and Data Visualization. 
 - 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 💼 I’m pursuing a Bachelor's degree in Electronics and Instrumentation.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [gr8rithic@gmail.com](mailto:gr8rithic@gmail.com).
 
