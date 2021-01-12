@@ -53,5 +53,3 @@ Hi there, I'm **Rithic Hariharan**, a **Student** 🚀 from Coimbatore, India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=gr8rithic&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="gr8rithic's GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr8rithic&theme=shades-of-purple" alt="gr8rithic's GitHub Stats">
