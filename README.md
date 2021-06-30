@@ -1,5 +1,4 @@
 <!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
-<img src="https://komarev.com/ghpvc/?username=gr8rithic">
 <!--
 **ZamranxD/ZamranxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,6 +22,7 @@ Here are some ideas to get you started:
 
 Hi there, I'm **Rithic Hariharan**, a **Student** 🚀 from Coimbatore, India.
 
+<img src="https://komarev.com/ghpvc/?username=gr8rithic">
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
