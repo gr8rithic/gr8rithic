@@ -1,5 +1,5 @@
 <!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
-
+<img src="https://komarev.com/ghpvc/?username=gr8rithic">
 <!--
 **ZamranxD/ZamranxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,6 +53,3 @@ Hi there, I'm **Rithic Hariharan**, a **Student** 🚀 from Coimbatore, India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=gr8rithic&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="gr8rithic's GitHub Stats">
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=gr8rithic)
-<img src="https://komarev.com/ghpvc/?username=gr8rithic">
