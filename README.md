@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Hi there, I'm **Rithic Hariharan**, a **Student** 🚀 from Coimbatore, India.
 
-<img src="https://komarev.com/ghpvc/?username=gr8rithic">
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
