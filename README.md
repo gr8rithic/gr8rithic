@@ -68,10 +68,10 @@ I support Real Madrid 👿 and Germany 😎.
 </br>
 
 <a href="https://github.com/gr8rithic/Drug_Test_ML" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gr8rithic&repo=Drug_Test_ML&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gr8rithic&repo=Drug_Test_ML&theme=gotham" />
 </a>
 <a href="https://github.com/gr8rithic/Telegram-Covid-Vaccine-bot" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gr8rithic&repo=Telegram-Covid-Vaccine-bot&theme=dracula" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gr8rithic&repo=Telegram-Covid-Vaccine-bot&theme=gotham" />
 </a>
 <div align="center">
 
