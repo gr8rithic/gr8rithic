@@ -62,7 +62,6 @@ I support Real Madrid 👿 and Germany 😎.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gr8rithic&theme=gotham" alt="gr8rithic" />
 
-<p><img align="left" width="50%" height="200"src="https://github-readme-stats.vercel.app/api?username=gr8rithic&show_icons=true&locale=en" alt="gr8rithic" /></p>
 <p><img align="center" width="50%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=gr8rithic&" alt="gr8rithic" /></p>
 
 </br>
