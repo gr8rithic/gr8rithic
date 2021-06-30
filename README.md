@@ -53,3 +53,12 @@ Hi there, I'm **Rithic Hariharan**, a **Student** 🚀 from Coimbatore, India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=gr8rithic&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="gr8rithic's GitHub Stats">
+# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
+## 1. GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=gr8rithic&show_icons=true)
+## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gr8rithic&theme=blue-green)
+## 4. Random Joke Generator
+![Jokes Card](https://readme-jokes.vercel.app/api)
+## 5. Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=gr8rithic)
