@@ -54,6 +54,9 @@ I support Real Madrid 👿 and Germany 😎.
   <a href="https://www.hackerrank.com/gr8rithic">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://gr8rithic.github.io/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/web.svg" alt="portfolio" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
