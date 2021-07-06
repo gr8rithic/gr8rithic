@@ -9,7 +9,7 @@
 
 <br>
 
-Hi, I'm [Rithic Hariharan](https://gr8rithic.github.io/), a tech enthusiast, web developer, IoT Maker, and speaker 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play badminton 🏸 and Football ⚽.
+Hi, I'm [Rithic Hariharan](https://gr8rithic.github.io/), a tech enthusiast, IoT Maker, web developer, and speaker 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play badminton 🏸 and Football ⚽.
 I support Real Madrid 👿 and Germany 😎.
 
 <br>
