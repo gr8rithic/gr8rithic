@@ -27,7 +27,7 @@ I support Real Madrid 👿 and Germany 😎.
  
  <br>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gr8rithic" alt="gr8rithic" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=gr8rithic&theme=tokyonight" alt="gr8rithic" /> </p>
  
  </br>
 
