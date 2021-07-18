@@ -73,7 +73,7 @@ I support Real Madrid 👿 and Germany 😎.
 
 <hr>
 
-<summary>📈 My GitHub Stats</summary>
+***📈 My GitHub Stats***
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gr8rithic&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
