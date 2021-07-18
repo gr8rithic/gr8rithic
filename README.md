@@ -31,7 +31,7 @@ I support Real Madrid 👿 and Germany 😎.
  
  </br>
  
-**Languages and Tools:**
+### Languages and Tools:
 <br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -73,7 +73,7 @@ I support Real Madrid 👿 and Germany 😎.
 
 <hr>
 
-***📈 My GitHub Stats***
+### 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gr8rithic&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
@@ -83,7 +83,7 @@ I support Real Madrid 👿 and Germany 😎.
 
 </br>
 
-<summary><b> 💻 Repositories currently working on </b></summary>
+### 💻 Repositories currently working on
 <br> 
 <a href="https://github.com/gr8rithic/Drug_Test_ML" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gr8rithic&repo=Drug_Test_ML&theme=tokyonight" />
