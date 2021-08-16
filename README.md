@@ -9,6 +9,8 @@
 <a href="https://open.spotify.com/user/tl5kjfl94d23jz7qa7o8t9yhy?si=-A6j-_IHQ8C7D-KfzKQDVg&utm_source=copy-link&dl_branch=1" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<p><a href="https://gr8rithic.github.io/"><img src="https://img.shields.io/badge/-rithic.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://gr8rithic.github.io/" alt="Website Badge"></a> <a href="https://medium.com/@gr8rithic"><img src="https://img.shields.io/badge/-@rithic-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@gr8rithic" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/rithic-hariharan-8902b4199/"><img src="https://img.shields.io/badge/-@rithic-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/rithic-hariharan-8902b4199/" alt="LinkedIn Badge"></a>
+
 <br>
 
 Hi, I'm [Rithic Hariharan](https://gr8rithic.github.io/), a tech enthusiast, IoT Maker, web developer, and speaker 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play badminton 🏸 and Football ⚽.
