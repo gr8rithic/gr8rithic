@@ -98,3 +98,6 @@ I support Real Madrid 👿 and Germany 😎.
 ### Show some ❤️ by starring some of the repositories!
 </div>
 
+### Contribution Graph
+<a href="https://gr8rithic.github.io/"><img alt="Rithic's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gr8rithic&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
+
