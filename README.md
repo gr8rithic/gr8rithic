@@ -93,11 +93,12 @@ I support Real Madrid 👿 and Germany 😎.
 <a href="https://github.com/gr8rithic/Pymewc" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gr8rithic&repo=Pymewc&theme=tokyonight" />
 </a>
-<div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-</div>
 
 ### Contribution Graph
 <a href="https://gr8rithic.github.io/"><img alt="Rithic's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gr8rithic&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+</div>
