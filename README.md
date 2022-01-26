@@ -77,11 +77,11 @@ I support Real Madrid 👿 and Germany 😎.
 
 ### 📈 My GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gr8rithic&theme=monokai&count_private=true&include_all_commits=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gr8rithic&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gr8rithic&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gr8rithic&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gr8rithic&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gr8rithic&theme=github_dark&count_private=true&include_all_commits=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gr8rithic&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gr8rithic&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gr8rithic&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gr8rithic&theme=github_dark)
 
 ### 💻 Repositories currently working on
 <br> 
