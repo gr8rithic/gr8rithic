@@ -77,13 +77,11 @@ I support Real Madrid 👿 and Germany 😎.
 
 ### 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gr8rithic&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-
-<p><img align="right"width="40%" height="200"src="https://github-readme-stats.vercel.app/api/top-langs?username=gr8rithic&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gr8rithic" /></p> 
-<p><img align="center" width="48%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=gr8rithic&theme=tokyonight" alt="gr8rithic" /></p>
-
-
-</br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gr8rithic&theme=monokai&count_private=true&include_all_commits=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gr8rithic&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gr8rithic&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gr8rithic&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gr8rithic&theme=monokai)
 
 ### 💻 Repositories currently working on
 <br> 
