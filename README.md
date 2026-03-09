@@ -74,14 +74,5 @@ I support Real Madrid 👿 and Germany 😎.
 
 <hr>
 
-### 💻 Repositories currently working on
-<br> 
-<a href="https://github.com/gr8rithic/Telegram-Covid-Vaccine-bot" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gr8rithic&repo=Telegram-Covid-Vaccine-bot&theme=tokyonight" />
-</a>
-<a href="https://github.com/gr8rithic/Pymewc" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gr8rithic&repo=Pymewc&theme=tokyonight" />
-</a>
-
 ### Show some ❤️ by starring some of the repositories!
 </div>
